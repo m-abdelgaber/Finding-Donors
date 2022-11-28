@@ -53,3 +53,4 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
+This was the graduation project of 4 weeks Data Scientist Nanodegree at Udacity
